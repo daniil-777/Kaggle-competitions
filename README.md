@@ -6,3 +6,5 @@ Folder "Sales" contains solution of https://www.kaggle.com/c/competitive-data-sc
 
 Folder "bozon_higgs" contains solution of https://www.kaggle.com/c/higgs-boson
 
+Folder "Sibur_challenge" contains solution of the challenge offered by the [Sibur](https://www.sibur.ru/en/) company to detect the anomalies at the factory sensor data 
+
